@@ -1,0 +1,23 @@
+{
+  "name": "my-website",
+  "version": "1.0.0",
+  "description": "My first website",
+  "main": "index.js",
+  "dependencies": {
+    "react": "^16.13.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrew-edmonds/my-website.git"
+  },
+  "author": "Andrew Edmonds",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrew-edmonds/my-website/issues"
+  },
+  "homepage": "https://github.com/andrew-edmonds/my-website#readme"
+}
